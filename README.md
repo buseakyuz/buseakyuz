@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🚀 I'm an Electrical and Electronics Engineer & Jr. Flutter Developer<br><br>📈 I worked on digital signal processing and GPS signals.<br>📃 Published Article: Comparison of performance of regression models in GPS-total electron content estimation.<br><br>🌱 My main goal is to develop apps with Flutter.<br>📚 I'm currently learning English, Flutter Development<br><br>🧚🏻‍♀️ I love being a community person.<br>🫧 Communities I'm in: Women Techmakers - Ambassadors, Google Developers Group</p>
+<p align="left">🚀 I'm an Electrical and Electronics Engineer & Jr. Flutter Developer<br><br>📃 Published Article: Comparison of performance of regression models in GPS-total electron content estimation.<br><br>🌱 My main goal is to develop apps with Flutter.<br>📚 I'm currently learning English, Flutter Development<br><br>🧚🏻‍♀️ I love being a community person.<br>🫧 Communities I'm in: Women Techmakers - Ambassadors, Google Developers Group</p>
 
 ###
 
