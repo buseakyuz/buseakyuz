@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Buse Akyüz</h1>
 
 <p align="center">
-  💻 Flutter Developer · 🤖 AI Enthusiast · 🌍 Community-Driven  
+🚀 Electrical and Electronics Engineer · 💻 Flutter Developer · 🤖 AI Enthusiast · 🌍 Community-Driven  
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 🌸 Actively involved in the developer ecosystem through:
   - **Women Techmakers Ambassador**
   - **Google Developer Groups (GDG)**
-- 🧠 Interests: AI agents, LangChain, productivity tools, and building dev-friendly content.
+- 🧠 Interests: AI, Mobile Development, productivity tools, and building dev-friendly content.
 
 ---
 
