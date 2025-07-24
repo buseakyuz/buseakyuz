@@ -1,49 +1,67 @@
-<h1 align="center">Hi 👋  I'm Buse Akyüz</h1>
+<h1 align="center">Hi 👋 I'm Buse Akyüz</h1>
 
-###
+<p align="center">
+  💻 Flutter Developer · 🤖 AI Enthusiast · 🌍 Community-Driven  
+</p>
 
-<br clear="both">
+---
 
-<h3 align="center">Flutter Developer</h3>
+### 👩‍💻 About Me
 
-###
+- ⚡️ I'm an Electrical & Electronics Engineer and a passionate **Flutter Developer**.
+- 📱 I build mobile apps with **Flutter**, blending great UI with smart features.
+- 📈 My research has been published:  
+  *“Comparison of regression models in GPS-total electron content estimation”*
+- 🌱 Currently improving my skills in **iOS development**, **AI integrations**, and **English**.
+- 🌸 Actively involved in the developer ecosystem through:
+  - **Women Techmakers Ambassador**
+  - **Google Developer Groups (GDG)**
+- 🧠 Interests: AI agents, LangChain, productivity tools, and building dev-friendly content.
 
-<p align="left">🚀 I'm an Electrical and Electronics Engineer & Flutter Developer<br><br>📃 Published Article: Comparison of performance of regression models in GPS-total electron content estimation.<br><br>🌱 My main goal is to develop apps with Flutter.<br>📚 I'm currently learning English, Flutter Development<br><br>🧚🏻‍♀️ I love being a community person.<br>🫧 Communities I'm in: Women Techmakers - Ambassadors, Google Developers Group</p>
+---
 
-###
-
-<h2 align="left">🛠️ Languages & Tools</h2>
-
-###
+### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
 </div>
 
-###
+---
 
-<h4 align="left">Connect with me!</h4>
+### 📸 Content Creation
 
-###
+- 🎥 I create educational & motivational tech content on Instagram: [@codeWithBiyee](https://instagram.com/codeWithBiyee)
+- 📖 Writing technical blogs on Medium: [buseakyuz](https://medium.com/@buseakyuz)
+
+
+---
+
+### 📬 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/buseakyuz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
   </a>
-  <a href="https://twitter.com/bseakyz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://x.com/bseakyz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" />
   </a>
   <a href="https://medium.com/@buseakyuz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" />
+  </a>
+  <a href="https://instagram.com/codeWithBiyee" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" />
   </a>
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeWithBiyee&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithBiyee&layout=compact&theme=radical" height="150"/>
+</div>
