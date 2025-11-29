@@ -1,68 +1,18 @@
-<h1 align="center">Hi 👋 I'm Buse Akyüz</h1>
-
-<p align="center">
-🚀 Electrical and Electronics Engineer · 💻 Flutter Developer · 🤖 AI Enthusiast · 🌍 Community-Driven  
-</p>
-
----
-
-### 👩‍💻 About Me
-
-- ⚡️ I'm an Electrical & Electronics Engineer and a passionate **Flutter Developer**.
-- 📱 I build mobile apps with **Flutter**, blending great UI with smart features.
-- 📈 My research has been published:  
-  *“Comparison of regression models in GPS-total electron content estimation”*
-- 🌱 Currently improving my skills in **iOS development**, **AI integrations**, and **English**.
-- 🌸 Actively involved in the developer ecosystem through:
-  - **Women Techmakers Ambassador**
-  - **Google Developer Groups (GDG)**
-- 🧠 Interests: AI, Mobile Development, productivity tools, and building dev-friendly content.
-
----
-
-### 🚀 Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-</div>
-
----
-
-### 📸 Content Creation
-
-- 🎥 I create educational & motivational tech content on Instagram: [@codeWithBiyee](https://instagram.com/codeWithBiyee)
-- 📖 Writing technical blogs on Medium: [buseakyuz](https://medium.com/@buseakyuz)
+# 💫 About Me:
+⚡️ I'm an Electrical & Electronics Engineer and a passionate Flutter Developer.<br>📱 I build mobile apps with Flutter, blending great UI with smart features.<br>📈 My research has been published:<br>“Comparison of regression models in GPS-total electron content estimation”<br>🌱 Currently improving my skills in iOS development, AI integrations, and English.<br>🌸 Actively involved in the developer ecosystem through:<br>Women Techmakers Ambassador<br>Google Developer Groups (GDG)<br>🧠 Interests: AI, Mobile Development, productivity tools, and building dev-friendly content.
 
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithbiyee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/buseakyuz) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@buseakyuz) 
 
-### 📬 Connect with Me
+# 💻 Tech Stack:
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=buseakyuz&theme=rose&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=buseakyuz&theme=rose&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=buseakyuz&theme=rose&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/buseakyuz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
-  </a>
-  <a href="https://x.com/bseakyz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" />
-  </a>
-  <a href="https://medium.com/@buseakyuz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" />
-  </a>
-  <a href="https://instagram.com/codeWithBiyee" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" />
-  </a>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
