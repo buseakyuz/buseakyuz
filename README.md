@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡️ I'm an Electrical & Electronics Engineer and a passionate Flutter Developer.<br>📱 I build mobile apps with Flutter, blending great UI with smart features.<br>📈 My research has been published:<br>“Comparison of regression models in GPS-total electron content estimation”<br>🌱 Currently improving my skills in iOS development, AI integrations, and English.<br>🌸 Actively involved in the developer ecosystem through:<br>Women Techmakers Ambassador<br>Google Developer Groups (GDG)<br>🧠 Interests: AI, Mobile Development, productivity tools, and building dev-friendly content.
+⚡️ I'm an Electrical & Electronics Engineer and a passionate Flutter Developer.<br>📱 I build mobile apps with Flutter, blending great UI with smart features.<br>📈 My research has been published:<br>“Comparison of regression models in GPS-total electron content estimation”<br>🌱 Currently improving my skills in mobile development, AI integrations, and English.<br>🌸 Actively involved in the developer ecosystem through:<br>Women Techmakers Ambassador<br>Google Developer Groups (GDG)<br>🧠 Interests: AI, Mobile Development, productivity tools, and building dev-friendly content.
 
 
 ## 🌐 Socials:
